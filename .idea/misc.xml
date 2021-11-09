@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/drawable/copyright.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/drawable/gmail_background_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/drawable/linkedin_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/drawable/rounded_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/layout/gmail_userprofile.xml" value="0.10144927536231885" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/layout/splash_screen.xml" value="0.10144927536231885" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/layout/user_profile.xml" value="0.10144927536231885" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Android Development/Social_Media_Integration_App/Social-Media-Integration-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

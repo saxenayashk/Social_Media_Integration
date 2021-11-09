@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="facebook_app_id">707579210106403</string>
+    <string name="fb_login_protocol_scheme">fb707579210106403</string>
+    <string name="social_media_integration">SOCIAL MEDIA INTEGRATION</string>
+    <string name="designed_by">Designed by</string>
+    <string name="yash_saxena">YASH SAXENA</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="_2021_yash_saxena_for_the_sparks_foundation">2021 Yash Saxena for The Sparks Foundation</string>
+    <string name="the_sparks_foundation">The Sparks Foundation</string>
+    <string name="log_out">Log out</string>
+    <string name="todo">TODO</string>
+    <string name="sign_out">Sign out</string>
+</resources>
